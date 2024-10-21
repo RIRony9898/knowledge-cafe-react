@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "author_img": "https://i.ibb.co.com/rF9YN97/boy1.png",
+    "title": "Learning JavaScript in 2024",
+    "cover": "https://i.ibb.co.com/pxmb1R3/1.jpg",
+    "author": "John Doe",
+    "posted_date": "2024-01-15",
+    "reading_time": 5,
+    "hashtags": ["JavaScript", "WebDevelopment", "Programming"]
+  },
+  {
+    "id": 2,
+    "author_img": "https://i.ibb.co.com/LxN65Nv/girl2.jpg",
+    "title": "Exploring the Future of AI",
+    "cover": "https://i.ibb.co.com/Jr8SqjS/2.png",
+    "author": "Jane Smith",
+    "posted_date": "2024-02-20",
+    "reading_time": 8,
+    "hashtags": ["AI", "Technology", "Innovation"]
+  },
+  {
+    "id": 3,
+    "author_img": "https://i.ibb.co.com/qjbwwzF/boy2.jpg",
+    "title": "Mastering React Hooks",
+    "cover": "https://i.ibb.co.com/F05Szth/3.png",
+    "author": "Michael Brown",
+    "posted_date": "2024-03-10",
+    "reading_time": 6,
+    "hashtags": ["React", "WebDevelopment", "JavaScript"]
+  },
+  {
+    "id": 4,
+    "author_img": "https://i.ibb.co.com/SPNX1ct/girl1.jpg",
+    "title": "CSS Grids vs Flexbox: Which to Choose?",
+    "cover": "https://i.ibb.co.com/B2Nxk8s/4.jpg",
+    "author": "Lisa White",
+    "posted_date": "2024-04-05",
+    "reading_time": 4,
+    "hashtags": ["CSS", "WebDesign", "Frontend"]
+  },
+  {
+    "id": 5,
+    "author_img": "https://i.ibb.co.com/rF9YN97/boy1.png",
+    "title": "TailwindCSS Best Practices",
+    "cover": "https://i.ibb.co.com/pxmb1R3/1.jpg",
+    "author": "Tom Green",
+    "posted_date": "2024-05-18",
+    "reading_time": 7,
+    "hashtags": ["TailwindCSS", "WebDevelopment", "Design"]
+  },
+  {
+    "id": 6,
+    "author_img": "https://i.ibb.co.com/LxN65Nv/girl2.jpg",
+    "title": "How to Get Started with GitHub Actions",
+    "cover": "https://i.ibb.co.com/Jr8SqjS/2.png",
+    "author": "Emily Johnson",
+    "posted_date": "2024-06-25",
+    "reading_time": 9,
+    "hashtags": ["GitHub", "CI/CD", "Automation"]
+  },
+  {
+    "id": 7,
+    "author_img": "https://i.ibb.co.com/qjbwwzF/boy2.jpg",
+    "title": "Web Development Trends for 2024",
+    "cover": "https://i.ibb.co.com/F05Szth/3.png",
+    "author": "Robert King",
+    "posted_date": "2024-07-30",
+    "reading_time": 10,
+    "hashtags": ["WebDevelopment", "Trends", "Technology"]
+  },
+  {
+    "id": 8,
+    "author_img": "https://i.ibb.co.com/SPNX1ct/girl1.jpg",
+    "title": "Building Accessible Websites",
+    "cover": "https://i.ibb.co.com/B2Nxk8s/4.jpg",
+    "author": "Sara Taylor",
+    "posted_date": "2024-08-12",
+    "reading_time": 5,
+    "hashtags": ["Accessibility", "WebDesign", "UX"]
+  },
+  {
+    "id": 9,
+    "author_img": "https://i.ibb.co.com/rF9YN97/boy1.png",
+    "title": "The Rise of Serverless Architectures",
+    "cover": "https://i.ibb.co.com/pxmb1R3/1.jpg",
+    "author": "David Lee",
+    "posted_date": "2024-09-05",
+    "reading_time": 8,
+    "hashtags": ["Serverless", "CloudComputing", "Technology"]
+  },
+  {
+    "id": 10,
+    "author_img": "https://i.ibb.co.com/qjbwwzF/boy2.jpg",
+    "title": "Boost Your Productivity with VS Code",
+    "cover": "https://i.ibb.co.com/Jr8SqjS/2.png",
+    "author": "Nancy Brown",
+    "posted_date": "2024-10-01",
+    "reading_time": 6,
+    "hashtags": ["VSCode", "Productivity", "Coding"]
+  }
+]
